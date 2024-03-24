@@ -1,0 +1,10 @@
+# Ambiente virtual
+.venv_crm
+
+# Arquivos Python
+*.pyc
+*.pyo
+__pycache__
+
+# Dependências instaladas
+db.sqlite3
